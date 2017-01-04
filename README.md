@@ -38,5 +38,5 @@ tables and start fresh.
 
 ## Required APIs
 
-The required APIs are listed in the dist/lib folder. 
+The required APIs are listed in the [dist/lib](/dist/lib) folder. 
 
