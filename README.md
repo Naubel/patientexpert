@@ -5,6 +5,12 @@ The main purpose behind this project was to create an application that would all
 specialists, tasks and notes. Patient Expert uses an encrypted database connection and also has a password-protected interface, for which administrators
 can be added or removed.
 
+## Login
+
+In order to protect confidential data, a login has been implemented, as shown below.
+
+![Login](/screenshots/login.png?raw=true "Login")
+
 ## Functionality
 
 Patients, consultations, specialists, tasks and notes can be added, modified and removed. It is also possible to search for a specific item based on any criteria provided by the physician.
