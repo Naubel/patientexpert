@@ -27,7 +27,7 @@ In addition to the main functionalities of the application, any table, such as a
 
 Patient Expert also allows you to export any of the tables to an Excel spreadsheet.
 
-![Export](/screenshots/export.png?raw=true "Export")
+![Export](/screenshots/excel.png?raw=true "Export")
 
 ## Starting over
 
