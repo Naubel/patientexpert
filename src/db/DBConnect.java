@@ -12,7 +12,6 @@ import java.util.Properties;
 
 public class DBConnect 
 {
-    // /C:/Users/Alex/.netbeans-derby/bookmarkmanager
     public static final String dbURL = "jdbc:derby://localhost:1527/patientexpert;create=true;dataEncryption=true;encryptionKeyLength=256;encryptionAlgorithm=AES/CBC/NoPadding;bootPassword=Thursday";
     public static String tableName;
     public static Connection conn = null;
