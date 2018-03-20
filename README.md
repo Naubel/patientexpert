@@ -36,7 +36,7 @@ tables and start fresh.
 
 ![New](/screenshots/newdatabase.png?raw=true "New Database")
 
-## Required APIs
+## Required libraries
 
 The required APIs are listed in the [dist/lib](/dist/lib) folder. 
 
